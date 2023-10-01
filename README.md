@@ -1,7 +1,7 @@
 # my-first-react-app-udemy
 
-this is my first react app with course Maximilian Schwarzmüller
+this is my first react app with the course Maximilian Schwarzmüller
 
--
+---
 
-its very simple just tabs with a little of content
+it's very simple just tabs with a little content
